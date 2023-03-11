@@ -1,6 +1,6 @@
 module.exports = {
   parser: "@typescript-eslint/parser",
-  ignorePatterns: [
+  ignorePatterns: [ 
     "node_modules/",
     "dist",
     "__sapper__",
